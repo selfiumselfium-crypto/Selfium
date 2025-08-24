@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Page d'accueil -->
   <url>
     <loc>https://selfium.netlify.app/</loc>
+    <lastmod>2025-08-24</lastmod>
     <priority>1.0</priority>
   </url>
-
-  <!-- Page Histoire -->
-  <url>
-    <loc>https://selfium.netlify.app/histoire.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Page Conseil -->
-  <url>
-    <loc>https://selfium.netlify.app/conseil.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Produit -->
-  <url>
-    <loc>https://selfium.netlify.app/produit.png</loc>
-    <priority>0.5</priority>
-  </url>
-
-  <!-- Packaging -->
-  <url>
-    <loc>https://selfium.netlify.app/packaging.png</loc>
-    <priority>0.5</priority>
-  </url>
-
 </urlset>
